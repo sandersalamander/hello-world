@@ -1,2 +1,5 @@
 # hello-world
-test-repository
+
+Hei!
+
+Jeg heter Sander, og er for tiden elektroingeniør-student ved Oslomet.
